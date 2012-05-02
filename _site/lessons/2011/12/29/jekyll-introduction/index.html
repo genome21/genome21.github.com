@@ -281,14 +281,7 @@ categories : [lessons, beginner]
 <p><strong>Formatting</strong><br />Templates should be coded in HTML and contain YAML Front Matter. All templates can contain Liquid code to work with your site&#8217;s data.</p>
 
 <p><strong>Rending Page/Post Content in a Template</strong><br />There is a special variable in all templates named : <code>content</code>. The <code>content</code> variable holds the page/post content including any sub-template content previously defined. Render the content variable wherever you want your main content to be injected into your template:</p>
-<pre><code>...
-&lt;body&gt;
-  &lt;div id="sidebar"&gt; ... &lt;/div&gt;
-  &lt;div id="main"&gt;
-    &#123;{content}&#125;
-  &lt;/div&gt;
-&lt;/body&gt;
-...</code></pre>
+
 <h3 id='subtemplates'>Sub-Templates</h3>
 
 <p>Sub-templates are exactly templates with the only difference being they define another &#8220;root&#8221; layout/template within their YAML Front Matter. This essentially means a template will render inside of another template.</p>
