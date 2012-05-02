@@ -6,7 +6,7 @@ tagline: by Robert Wilkins, III
 {% include JB/setup %}
 
 <div class="hero-unit"><center>
-    <h1>My Repositories</h1><br><br>
+    <img src="assets/caintrae_pose2smaller toside25.PNG"><h1>My Repositories</h1><br><br>
     <p>
     <a class="btn btn-primary btn-large" href='http://github.com/genome21'>Github</a>
     <a class="btn btn-primary btn-large" href='http://stackoverflow.com/users/1330184/genome21?tab=summary'>StackOverflow</a>
