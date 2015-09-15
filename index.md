@@ -10,6 +10,8 @@ tagline: by Robert Wilkins, III
     <p>
     <a class="btn btn-primary btn-large" href='http://github.com/genome21'>Github</a>
     <a class="btn btn-primary btn-large" href='http://stackoverflow.com/users/1330184/genome21?tab=summary'>StackOverflow</a>
+    <a class="btn btn-primary btn-large"
+href='http://www.linkedin.com/in/robertwilkinsiii'>Linkedin</a>
     </p>
     </center></div>
 <h3>Posts on Code</h3>
